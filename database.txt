@@ -1,0 +1,56 @@
+000000*Test Book 1*Test Author 1*0
+000001*Test Book 2*Test Author 2*0
+000002*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000003*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000004*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000005*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000006*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000007*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000008*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000009*Python for Dummies*Stef Maruch, Aahz Maruch*0
+000010*Python for complete beginners*Dr Martin Jones*0
+000011*Python for complete beginners*Dr Martin Jones*0
+000012*Python for complete beginners*Dr Martin Jones*0
+000013*Python for complete beginners*Dr Martin Jones*0
+000014*Python for complete beginners*Dr Martin Jones*0
+000015*Python for complete beginners*Dr Martin Jones*0
+000016*Python for complete beginners*Dr Martin Jones*0
+000017*Python for complete beginners*Dr Martin Jones*0
+000018*Python for complete beginners*Dr Martin Jones*0
+000019*Python for complete beginners*Dr Martin Jones*0
+000020*Python for complete beginners*Dr Martin Jones*0
+000021*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000022*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000023*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000024*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000025*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000026*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000027*Python Programming: A Step-by-Step Guide For Absolute Beginners*Brian Jenkins*0
+000028*Coding for Beginners: Using Python*Louie Stowell*0
+000029*Coding for Beginners: Using Python*Louie Stowell*0
+000030*Coding for Beginners: Using Python*Louie Stowell*0
+000031*Coding for Beginners: Using Python*Louie Stowell*0
+000032*Coding for Beginners: Using Python*Louie Stowell*0
+000033*Coding for Beginners: Using Python*Louie Stowell*0
+000034*Coding for Beginners: Using Python*Louie Stowell*0
+000035*Coding for Beginners: Using Python*Louie Stowell*0
+000036*Coding for Beginners: Using Python*Louie Stowell*0
+000037*Coding for Beginners: Using Python*Louie Stowell*0
+000038*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000039*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000040*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000041*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000042*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000043*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000044*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000045*Beginning Programming with Python For Dummies*John Paul Mueller*0
+000046*Python For Kids For Dummies*Brendan Scott*0
+000047*Python For Kids For Dummies*Brendan Scott*0
+000048*Python For Kids For Dummies*Brendan Scott*0
+000049*Python For Kids For Dummies*Brendan Scott*0
+000050*Python For Kids For Dummies*Brendan Scott*0
+000051*Python For Kids For Dummies*Brendan Scott*0
+000052*Python For Kids For Dummies*Brendan Scott*0
+000053*Python For Kids For Dummies*Brendan Scott*0
+000054*Python For Kids For Dummies*Brendan Scott*0
+000055*Python For Kids For Dummies*Brendan Scott*0
